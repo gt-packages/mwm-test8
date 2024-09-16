@@ -5,8 +5,8 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: 'mwm-nuxt-module-template',
-    configKey: 'mwmNuxtModuleTemplate',
+    name: 'mwm-test8',
+    configKey: 'mwmTest8',
     compatibility: {
       nuxt: '^3.0.0',
     },

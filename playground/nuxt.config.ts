@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     '../src/module',
   ],
 
-  mwmNuxtModuleTemplate: {},
+  mwmTest8: {},
 
   eslint: {
     checker: true,
